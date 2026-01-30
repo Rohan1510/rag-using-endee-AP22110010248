@@ -78,6 +78,12 @@ This mirrors real-world production architectures where storage and retrieval are
 ### Run Endee
 ```bash
 docker compose up -d
+
+---
+
+### Run Endee
+```bash
+docker compose up -d
 Install Dependencies
 pip install -r requirements.txt
 
