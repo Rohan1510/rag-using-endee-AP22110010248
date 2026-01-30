@@ -1,0 +1,665 @@
+Unit-1: Introduction
+Dr. Ramesh Kumar
+Cloud Computing:
+● Cloud computing is a computing paradigm that offers on-demand services to the 
+end-users through pool of computing resources that includes storage services, 
+computing resources and so on.
+● Cloud computing is the delivery of computing services—including servers, storage, 
+databases, networking, software, analytics, and intelligence—over the Internet (“the 
+cloud”) to offer faster innovation, flexible resources, and economies of scale. 
+● You typically pay only for cloud services you use, helping lower your operating costs, 
+run your infrastructure more efficiently and scale as your business needs change.
+
+Benefits of cloud computing:
+Cost
+  Cloud computing eliminates the capital expense of buying hardware and software and setting up 
+and running on-site datacenters—the racks of servers, the round-the-clock electricity for power and 
+cooling, the IT experts for managing the infrastructure. It adds up fast.
+Speed
+  Most cloud computing services are provided self service and on demand, so even vast amounts of 
+computing resources can be provisioned in minutes, typically with just a few mouse clicks, giving 
+businesses a lot of flexibility and taking the pressure off capacity planning.
+Global scale
+  The benefits of cloud computing services include the ability to scale elastically. In cloud speak, that 
+means delivering the right amount of IT resources—for example, more or less computing power, 
+storage, bandwidth—right when it is needed and from the right geographic location.
+Benefits of cloud computing:
+Productivity:
+  On-site datacenters typically require a lot of “racking and stacking”—hardware setup, 
+software patching, and other time-consuming IT management chores. 
+Cloud computing removes the need for many of these tasks, so IT teams can spend time on 
+achieving more important business goals.
+Performance
+  The biggest cloud computing services run on a worldwide network of secure datacenters, which 
+are regularly upgraded to the latest generation of fast and efficient computing hardware. 
+This offers several benefits over a single corporate datacenter, including reduced network latency for 
+applications and greater economies of scale.
+Benefits of cloud computing:
+Reliability
+  Cloud computing makes data backup, disaster recovery and business 
+continuity easier and less expensive because data can be mirrored at 
+multiple redundant sites on the cloud provider’s network.
+Security
+  Many cloud providers offer a broad set of policies, technologies and 
+controls that strengthen your security posture overall, helping protect 
+your data, apps and infrastructure from potential threats.
+Traditional computing vs cloud computing
+
+Pros and Cons of Cloud computing:
+Pros:
+No cost on infrastructure: Cloud computing is divided into three major categories as 
+per the services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and 
+Software as a Service (SaaS).
+Minimum management and cost: By selecting the cloud, you save cost in 
+many ways:
+  --Zero investment in infrastructure.
+  --Since you don’t own the infrastructure, you   spend nothing on its management 
+or staff to   manage it.
+  --Cloud works on pay as you go model, so you   spend only on resources that 
+you need. Nothing   more!
+Forget about administrative or management hassles: Whenever there is a purchase 
+or up-gradation of hardware, a lot of time is wasted looking for best vendors, inviting 
+quotations, negotiating rates, taking approvals, generating POs and waiting for delivery 
+and then in setting up the infrastructure.
+Accessibility and pay per use: Cloud resources are easily accessible from around the 
+globe – anytime, anywhere and from any device and you have complete access to your 
+resources.
+Reliability: Your infrastructure in the cloud increases the reliability and availability of 
+applications and services. Cloud services run on pooled and redundant infrastructure which 
+provides you with a higher availability of IT services.
+Data control: Another primary advantage of the cloud is that it centralizes all the data from 
+multiple projects and branch offices to a single location. You gain complete control over the data 
+without visiting individual places for checking the information.
+Data backup & recovery: Loss of data can significantly impact your 
+business. You might lose critical information which can cost you a huge sum 
+of money, waste your valuable time and adversely impact your brand image.
+Huge cloud storage: Most cloud services provide you a free, secure and 
+huge storage space to store all your valuable information.
+Automatic software updates: Updating a system every now and then can 
+be a frustrating task for enterprises. The IT department needs to update the 
+system for every individual which not only wastes time but affects productivity.
+Cons of cloud computing:
+Requires good speed internet with good bandwidth: To access your cloud 
+services, you need to have a good internet connection always with good bandwidth to 
+upload or download files to/from the cloud
+Downtime: Since the cloud requires high internet speed and good bandwidth, there is 
+always a possibility of service outage, which can result in business downtime. Today, no 
+business can afford revenue or business loss due to downtime or slow down from an 
+interruption in critical business processes.
+Limited control of infrastructure: Since you are not the owner of the infrastructure of 
+the cloud, hence you don’t have any control or have limited access to the cloud infra.
+Restricted or limited flexibility: The cloud provides a huge list of services, but 
+consuming them comes with a lot of restrictions and limited flexibility for your 
+applications or developments. Also, platform dependency or ‘vendor lock-in’ can 
+sometimes make it difficult for you to migrate from one provider to another.
+Ongoing costs: Although you save your cost of spending on whole infrastructure 
+and its management, on the cloud, you need to keep paying for services as long as 
+you use them. But in traditional methods, you only need to invest once.
+ Security: Security of data is a big concern for everyone. Since the public cloud 
+utilizes the internet, your data may become vulnerable.
+Vendor Lock-in: Although the cloud service providers assure you that 
+they will allow you to switch or migrate to any other service provider 
+whenever you want, it is a very difficult process.
+Technical issues: Even if you are a tech whiz, the technical issues can 
+occur, and everything can’t be resolved in-house. To avoid interruptions, 
+you will need to contact your service provider for support. However, not 
+every vendor provides 24/7 support to their clients.
+advantages and disadvantages of cloud computing:
+Service Models: The many paradigms of cloud computing can be broken down into three unique service 
+model classifications: Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a 
+Service (IaaS).
+Software as a Service (Saas)
+Platform as a Service (PaaS)
+Infrastructure as a Service (IaaS)
+Deployment Models:
+Private cloud
+Community cloud
+Public cloud
+Hybrid cloud
+Infrastructure as a Service | IaaS
+Iaas is also known as Hardware as a Service (HaaS). It is one of the layers of the cloud 
+computing platform. 
+It allows customers to outsource their IT infrastructures such as servers, networking, processing, 
+storage, virtual machines, and other resources. Customers access these resources on the Internet 
+using a pay-as-per use model.
+In traditional hosting services, IT infrastructure was rented out for a specific period of time, with 
+pre-determined hardware configuration. The client paid for the configuration and time, regardless of 
+the actual use. With the help of the IaaS cloud computing platform layer, clients can dynamically 
+scale the configuration to meet changing requirements and are billed only for the services actually 
+used.
+A cloud computing service provider, such as Azure, manages the infrastructure, while you 
+purchase, install, configure and manage your own software—operating systems, middleware and 
+applications.
+Hosted applications/apps Development tools, 
+database management, 
+business analytics
+Operating systems Servers and storage Networking 
+firewalls/security
+Data center physical 
+plant/building
+IaaS provider provides the following services 
+Compute: Computing as a Service includes virtual central processing units and 
+virtual main memory for the Vms that is provisioned to the end- users.
+Storage: IaaS provider provides back-end storage for storing files.
+Network: Network as a Service (NaaS) provides networking components such 
+as routers, switches, and bridges for the Vms.
+Load balancers: It provides load balancing capability at the infrastructure layer.
+Advantages of IaaS cloud computing layer
+There are the following advantages of IaaS computing layer 
+1. Shared infrastructure
+  IaaS allows multiple users to share the same physical infrastructure.
+2. Web access to the resources
+  Iaas allows IT users to access resources over the internet.
+3. Pay-as-per-use model
+  IaaS providers provide services based on the pay-as-per-use basis. The users are required to pay for what they 
+have used.
+4. Focus on the core business
+  IaaS providers focus on the organization's core business rather than on IT infrastructure.
+5. On-demand scalability
+  On-demand scalability is one of the biggest advantages of IaaS. Using IaaS, users do not worry about to upgrade 
+software and troubleshoot the issues related to hardware components.
+Disadvantages of Iaas:
+1. Security
+  Security is one of the biggest issues in IaaS. Most of the IaaS providers are not able to 
+provide 100% security.
+2. Maintenance & Upgrade
+  Although IaaS service providers maintain the software, but they do not upgrade the 
+software for some organizations.
+3. Interoperability issues
+  It is difficult to migrate VM from one IaaS provider to the other, so the customers might 
+face problem related to vendor lock-in.
+
+IaaS (Infra as a Service)
+  IaaS provides the infrastructure such as virtual machines and other resources like virtual-machine 
+disk image library, block and file-based storage, firewalls, load balancers, IP addresses, virtual 
+local area networks etc. Infrastructure as service or IaaS is the basic layer in cloud computing model.
+  Common examples: DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco 
+Metapod, Microsoft Azure, Google Compute Engine (GCE) are some popular examples of Iaas.
+PaaS (Platform as a Service)
+  PaaS or platform as a service model provides you computing platforms which typically includes an 
+operating system, programming language execution environment, database, web server. technically It is 
+a layer on top of IaaS as the second thing you demand after Infrastructure is a platform.
+  Common examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App 
+Engine, Apache Stratos.
+SaaS (Software as a Service)
+  In a SaaS, you are provided access to application services installed at a 
+server. You don’t have to worry about installation, maintenance or coding of that 
+software. You can access and operate the software with just your browser. You 
+don’t have to download or install any kind of setup or OS, the software is just 
+available for you to access and operate. The software maintenance or setup or 
+help will be provided by SaaS provider company and you will only have to pay for 
+your usage.
+  Common examples: Google Apps, Microsoft office365, Google docs, Gmail, 
+WHMCS billing software
+Platform as a Service | PaaS
+ Platform as a Service (PaaS) provides a runtime environment. It allows programmers to 
+easily create, test, run, and deploy web applications. You can purchase these 
+applications from a cloud   service provider on a pay-as-per use basis and   access them 
+using the Internet connection. In PaaS, back end scalability is managed by the cloud 
+service provider, so end- users do not need to worry about managing the infrastructure.
+  PaaS includes infrastructure (servers, storage, and   networking) and platform 
+(middleware,   development tools, database management   systems, business intelligence, 
+and more) to   support the web application life cycle.
+Example: Google App Engine, Force.com, Joyent, Azure.
+
+PaaS providers provide the Programming languages, Application frameworks, Databases, and Other tools:
+ Programming languages
+PaaS providers provide various programming languages for the developers to develop the applications. Some popular 
+programming languages provided by PaaS providers are Java, PHP, Ruby, Perl, and Go.
+ Application frameworks
+PaaS providers provide application frameworks to easily understand the application development. Some popular 
+application frameworks provided by PaaS providers are Node.js, Drupal, Joomla, WordPress, Spring, Play, Rack, and 
+Zend.
+ Databases
+PaaS providers provide various databases such as ClearDB, PostgreSQL, MongoDB, and Redis to communicate with the 
+applications.
+ Other tools
+PaaS providers provide various other tools that are required to develop, test, and deploy the applications.
+Advantages of PaaS
+There are the following advantages of PaaS 
+1) Simplified Development
+PaaS allows developers to focus on development and innovation without worrying about infrastructure management.
+2) Lower risk
+No need for up-front investment in hardware and software. Developers only need a PC and an internet connection to 
+start building applications.
+3) Prebuilt business functionality
+Some PaaS vendors also provide already defined business functionality so that users can avoid building everything 
+from very scratch and hence can directly start the projects only.
+4) Instant community
+PaaS vendors frequently provide online communities where the developer can get the ideas to share experiences 
+and seek advice from others.
+5) Scalability
+Applications deployed can scale from one to thousands of users without any changes to the applications.
+Disadvantages of PaaS:
+Vendor lock-in
+One has to write the applications according to the platform provided by the PaaS vendor, so the migration of an 
+application to another PaaS vendor would be a problem.
+For example, an application written in Python against API of Google, and using App Engine of Google is likely to 
+work only in that environment.
+2) Data Privacy
+Corporate data, whether it can be critical or not, will be private, so if it is not located within the walls of the 
+company, there can be a risk in terms of privacy of data.
+3) Integration with the rest of the systems applications
+It may happen that some applications are local, and some are in the cloud. So there will be chances of increased 
+complexity when we want to use data which in the cloud with the local data.
+Software-as-a-Service
+Software-as-a-Service, or SaaS for short, is a 
+cloud-based method of providing software to users. 
+SaaS users subscribe to an application rather than 
+purchasing it once and installing it. Users can log into 
+and use a SaaS application from any compatible device 
+over the Internet. The actual application runs in cloud 
+servers that may be far removed from a user's location.
+A SaaS application may be accessed through a browser or through an app. Online email 
+applications that users access through a browser, such as Gmail and Office 365, are 
+common examples of SaaS applications.
+The difference between SaaS and a software installation on a user's computer is 
+somewhat like the difference between streaming a TV show online and buying all the 
+seasons of the TV show on DVD.
+Someone who buys a TV show on DVD only needs to pay for it once; however, they will 
+need to store and maintain the DVDs, and if they change their hardware – for instance, if 
+they replace their DVD player with a Blu-ray player – then they will need to purchase the 
+physical media again. Streaming the show instead means a third party handles all the 
+storage and upgrades, and all a user needs to do is press play. However, streaming is 
+dependent on an Internet connection, and users typically need to pay a recurring monthly fee 
+to maintain their access.
+Advantage of SaaS:
+ Access from anywhere, on any device. Typically, users can log into SaaS applications 
+from any device and any location. This offers a great deal of flexibility – businesses can allow 
+employees to operate all over the world, and users can access their files no matter they are. 
+In addition, most users use multiple devices and replace them often; users don't need to 
+reinstall SaaS applications or purchase new licenses each time they switch to a new device.
+No need for updates or installations. The SaaS provider updates and patches the 
+application on an ongoing basis.
+Scalability. The SaaS provider handles scaling up the application, such as adding more 
+database space or more compute power as usage increases.
+Cost savings. SaaS cuts down on internal IT costs and overhead. The SaaS provider 
+maintains the servers and infrastructure that support the application, and the only cost to a 
+business is the subscription cost of the application.
+Disadvantage of SaaS:
+The need for stronger access control. The increased accessibility of SaaS applications also means that 
+verifying user identity and controlling access levels becomes very important. With SaaS, organizational assets 
+are no longer kept within an internal network, separate from the outside world. Instead, user access is based 
+on user identity: if someone has the right login credentials, they are granted access. Strong identity 
+verification thus becomes crucial.
+Vendor lock-in. A business may become overly reliant on the SaaS application provider. It's 
+time-consuming and expensive to move to a new application if an organization's entire database is stored 
+within the old application.
+Disadvantage (for enterprises): Security and compliance. With SaaS applications, the responsibility for 
+protecting those applications and their data moves from internal IT teams to the external SaaS providers. For 
+small to medium-sized businesses, this is less of a disadvantage, as large cloud providers typically have more 
+resources for putting strong security in place. But this can be a challenge if a large business faces tight 
+security or regulatory standards. In some cases businesses will be unable to assess their applications' 
+security themselves, for instance by performing penetration testing. Essentially, they have to take the external 
+SaaS provider's word that the application is secure.
+
+HOW DOES CLOUD COMPUTING WORK?
+Cloud computing is an application-based software infrastructure that stores data on 
+remote serves, which can be accessed through the internet. To understand how cloud 
+computing works, it can be divided into front-end and backend.
+The front end enables a user to access data stored in the cloud using an internet 
+browser or a cloud computing software. However, the primary component of cloud 
+computing – responsible for securely storing data and information – is the backend. It 
+comprises servers, computers, databases, and central servers.
+The central server facilitates operations by following a set of rules known as 
+protocols. It uses a software, middleware, to ensure seamless connectivity between 
+devices/computers linked via cloud computing. Cloud computing service providers 
+usually maintain multiple copies of the data to mitigate instances of security threats, 
+data loss, data breach, etc.
+
+Limitation of Cloud computing
+Latency: Cloud computing, with its reliance on centralized data centers, can introduce significant delays in data 
+processing, especially for applications requiring real-time responses. This latency can be a major drawback for 
+applications like autonomous vehicles, industrial automation, and remote surgery. 
+Bandwidth: The transfer of large datasets between edge devices and remote cloud servers can strain network 
+bandwidth, leading to performance bottlenecks and increased costs. 
+Security: While cloud providers implement robust security measures, the centralized nature of the cloud can still 
+be vulnerable to attacks. Data breaches and security incidents in shared cloud environments can have far-reaching 
+consequences. 
+Control and Flexibility: Cloud computing often involves less direct control over the underlying infrastructure and 
+resources compared to on-premise solutions. This can limit customization and adaptability to specific application 
+requirements. 
+Dependence on Internet Connectivity: Cloud-based applications rely heavily on stable and reliable internet 
+connectivity. Outages or poor connections can disrupt service availability and impact critical operations. 
+Cost: While cloud services can offer cost savings in some scenarios, the cost of data storage, processing, and 
+bandwidth can become substantial for large-scale deployments and real-time applications.
+Challenges in IoT
+● CIoT(Cloud centric Internet of Things) model is a common approach to 
+implement IoT systems, it is facing the growing challenges in IoT. 
+● Specifically, CIoT faces challenges in BLURS—bandwidth, latency, 
+uninterrupted, resource-constraint, and security.
+● Bandwidth: The increasingly large and high-frequent rate data produced by 
+objects in IoT will exceed the bandwidth availability.
+● Latency: Cloud faces the challenges of achieving the requirement of 
+controlling the end-to-end latency within tens of milliseconds.
+● Uninterrupted: The long distance between cloud and the front-end IoT 
+devices can face issues derived from the unstable and intermittent network 
+connectivity.
+Challenges in IoT
+● Resource-constrained: Commonly, many front-end devices are 
+resource-constrained in which they are unable to perform complex 
+computational tasks and hence, CIoT systems usually require front-end 
+devices to continuously stream their data to the cloud. However, such a 
+design is impractical in many devices that operate with battery power because 
+the end-to-end data transmission via the Internet can still consume a lot of 
+energy.
+● Security: A large number of constraint front-end devices may not have 
+sufficient resources to protect themselves from the attacks.
+The growing challenges of CIoT raised a question—what can be done to overcome the limitation of current 
+cloud-centric architecture?
+What is Edge Computing
+● Edge computing is a distributed computing model in which computing takes place 
+near the physical location where data is being collected and analyzed, rather than 
+on a centralized server or in the cloud.
+● The Edge computing paradigm provides low latency, mobility, and location 
+awareness support to delay-sensitive applications.
+● It brings the service and utilities of cloud computing closer to the end user and is 
+characterized by fast processing and quick application response time.
+● The cloud computing issues can be resolved through the three Edge computing 
+models: Cloudlets , Fog computing  and Mobile Edge computing .
+● Edge devices like routers, access points, and base station host different services 
+(e.g., QoS, VPN, and Voice over IP etc.) . 
+● These Edge devices act as a bridge that connects the smart mobile devices with the 
+cloud.
+
+Need for edge computing
+1. Reduce latency
+Latency reduction is one of the hallmarks of edge computing, and it is made 
+possible because of the proximity of the edge devices and where their data is 
+stored and processed. When data has to be sent through the internet, it may have 
+to travel hundreds of miles. While many processes can function adequately with 
+the resulting delay, some are so time-sensitive that you need an edge-computing 
+architecture to support them.
+Need for edge computing
+2. Reduce bandwidth requirements
+In a more complex edge computing environment, the edge infrastructures can 
+serve as gateways between local data and that coming from outside. For example, 
+with an edge computing setup within a vehicle, the edge computing infrastructure 
+can collect data from Global Positioning System (GPS) devices, traffic signals, and 
+other vehicles to improve the experience of the driver, enhance safety, and 
+optimize fuel efficiency.
+Need for edge computing
+3. Real-time processing applications
+Some processes require real-time processing to perform their most basic 
+functions. For example, self-driving cars need to process the information they 
+receive from sensors regarding the speed and proximity of vehicles, people, and 
+various objects. With edge computing, this can be done instantly, enhancing the 
+safety of the driver and others.
+Need for edge computing
+4. Reduced costs
+By reducing the amount of information that needs to get transmitted across the 
+internet, an organization may not have to use as much bandwidth. Therefore, they 
+may be able to reduce the amount they spend each month paying their internet 
+service provider (ISP).
+Need for edge computing
+5. Smart applications
+A powerful edge device can support smart applications. These can incorporate 
+machine learning and artificial intelligence, taking advantage of their proximity to 
+the source of input. In this way, smart applications can recognize patterns in the 
+environment of the edge devices on which they operate, and then use this 
+information to adjust how they function and the services they provide.
+Need for edge computing
+6. Data privacy
+Whenever personal data has to travel to the cloud, it gets exposed to a variety of 
+security threats—either within the database itself or as it gets transmitted to the 
+internet. With edge computing, you can enhance data privacy by limiting the flow 
+of data between the edge device and where it is processed and stored locally.
+Edge definition
+● In edge computing, "edge" refers to the physical location where data is 
+generated and processed, typically near the source of data (like IoT devices, 
+sensors, or user devices) rather than in a centralized data center. This 
+proximity allows for faster processing and reduced latency, crucial for 
+real-time applications.
+● Edge computing is the process of bringing information storage and computing 
+abilities closer to the devices that produce that information and the users who 
+consume it.
+● FEC (Fog and Edge Computing) provides a complement to the cloud in IoT by 
+filling the gap between cloud and things toward providing service continuum.
+FEC Advantages: SCANC
+Characteristic Features of Edge computing — SCALE
+FEC offers five main advantages, which can be exemplified by SCALE—security, cognition, agility, 
+latency, and efficiency 
+● Security: FEC supports additional security to IoT devices to ensure safety and trust-worthiness in 
+transactions.
+● Cognition: FEC enables the awareness of the objectives of their clients toward supporting 
+autonomous decision-making in terms of where and when to deploy computing, storage, and control 
+functions.
+● Agility:  FEC brings the opportunity to individual and small businesses to participate in providing 
+FEC services using the common open software interfaces or open Software Development Kits 
+(SDKs).
+● Latency: The common understanding of FEC is to provide rapid responses for the applications that 
+require ultra-low latency.
+● Efficiency: FEC enhances the efficiency of CIoT in terms of improving performance and reducing 
+the unnecessary costs.
+Architectural differences b/w Cloud and Edge computing
+Architectural differences b/w Cloud and Edge computing
+Aspect Cloud Computing Edge Computing
+Data Processing Centralized in remote data centers Decentralized, near data source
+Latency Higher, due to distance from user Low, as processing happens locally
+Bandwidth Requires high bandwidth for data transfer Reduces bandwidth by local processing
+Scalability Highly scalable with virtually unlimited resources Limited scalability, device-constrained
+Storage Massive centralized storage Limited local storage
+Deployment Centralized architecture, easier to manage Distributed architecture, complex management
+Security Easier to enforce uniform policies More complex due to distributed nature
+Reliability Depends on stable internet connectivity Can operate offline or with intermittent connectivity
+Cost Pay-as-you-go, but high data transfer costs Higher initial hardware cost, less cloud dependency
+Use Cases Big data analytics, enterprise apps Real-time IoT, AR/VR, autonomous systems
+Hierarchy of Fog and Edge Computing 
+Edge Computing Models (Service models)
+● FEC business models define how services are delivered.
+● Three main types:
+ •XaaS (Anything as a Service): Infrastructure, platform, software, storage.
+•Support Service: Configuration, maintenance, technical support.
+•Application Service: Digital Twins, real-time analytics, traffic control.
+Edge Computing Models (Service models)
+XaaS (X as a Service)
+● Provides infrastructure, platform, software, etc.
+● Clients pay to use edge hardware/resources.
+● Examples:
+ • MQL5 Cloud Network  project (distributed computing)
+ • Fon (global Wi-Fi sharing)
+Support Service
+● Software installation, updates, maintenance for edge devices.
+● Custom solutions for FEC systems.
+● Example: Cisco FEC solution with IOX-enabled hardware & updates.
+Application Service
+● Provides apps for low-latency edge processing.
+● Examples:
+ • Digital Twin for industrial systems
+ • Real-time traffic control for smart cities
+ • Analytics for Ambient Assisted Living (AAL)
+*For example, an IndieFog provider who has installed Apache 
+Edgent can offer the built-in stream data classification function as 
+an application service for the mobile AAL clients in the close 
+proximity.
+Opportunities and Challenges in Edge Computing
+Opportunities in Edge Computing
+● Low Latency Services
+○ Real-time applications (e.g., autonomous vehicles, AR/VR).
+● Bandwidth Optimization
+○ Less data sent to the cloud → cost reduction.
+● Enhanced Security & Privacy
+○ Data processed locally → reduced risk of breaches.
+● Scalability for IoT
+○ Supports billions of IoT devices.
+● AI at the Edge
+○ Enables smart decision-making close to the user.
+Challenges in Edge Computing
+● Hardware Constraints
+○ Limited processing power on edge nodes.
+● Management Complexity
+○ Orchestrating thousands of distributed nodes.
+● Data Security & Privacy
+○ Increased attack surface at multiple nodes.
+● Interoperability Issues
+○ Different vendors, platforms, and standards.
+● Reliability & Fault Tolerance
+○ Edge devices prone to failures or connectivity issues.
+
+
+
+Operational & Management 
+Challenges
+● Lifecycle management: 
+Provisioning, monitoring, 
+decommissioning thousands 
+of devices.
+● Service orchestration: 
+Deploying workloads 
+dynamically across 
+heterogeneous devices.
+● Energy efficiency: 
+Balancing performance with 
+limited power budgets.
+● Fault tolerance: Detecting 
+and recovering from local 
+node failures quickly.
+
+
+
+
+
+Cloudlets, CDN and MEC (Service Models)
+Motivation for Cloudlets
+● Many mobile services split the application into a front-end client program and a back-end server program following the 
+traditional client-server model. 
+● The front-end mobile application offloads its functionality to the back-end servers for various reasons such as 
+speeding up processing. 
+● With the advent of cloud computing, the back-end server is typically hosted at the cloud datacenter. 
+● Though the use of a cloud datacenter offers various benefits such as scalability and elasticity, its consolidation and 
+centralization lead to a large separation between a mobile device and its associated datacenter. 
+● End-to-end communication then involves many network hops and results in high latencies and low bandwidth.
+● For the reasons of latency, some emerging mobile applications require cloud offload infrastructure to be close to the 
+mobile device to achieve low response time. 
+● In the ideal case, it is just one wireless hop away. For example, the offload infrastructure could be located in a cellular 
+base station or it could be LAN-connected to a set of Wi-Fi base stations. The individual elements of this offload 
+infrastructure are referred to as cloudlets.
+Cloud vs 
+Cloudlets
+Cloud vs 
+Cloudlets
+What is a CDN?
+A CDN, or Content Delivery 
+Network, is a geographically 
+distributed network of servers 
+that work together to deliver 
+web content to users more 
+quickly and efficiently. 
+It does this by caching content 
+(like images, videos, and web 
+pages) on servers closer to the 
+users, reducing the distance 
+data needs to travel and 
+minimizing latency. 
+
+To visualise the difference, imagine watching 
+a live sports match. While cloud computing 
+might be excellent for analysing the entire 
+game’s statistics and patterns post-match, 
+Edge Computing is what allows cameras to 
+instantly replay the last goal from multiple 
+angles without a hitch
+Content Delivery Networks (CDNs):
+Purpose:
+CDNs store copies of website content (like images, 
+videos, and other static files) on multiple servers 
+distributed across different geographic locations. 
+How it works:
+When a user requests content, the CDN directs them to 
+the geographically closest server, minimizing the 
+distance data needs to travel and reducing latency. 
+Focus:
+Primarily focused on delivering static content efficiently 
+and quickly. 
+Example:
+A user in India accessing a website hosted in the US 
+will have their request routed to a CDN server in Asia, 
+closer to their location, rather than directly to the US 
+server. 
+Edge Computing:
+Purpose:
+Edge computing moves processing power and data 
+storage closer to the source of data generation (e.g., 
+user devices, IoT sensors). 
+How it works:
+Instead of sending all data to a central server for 
+processing, edge computing enables some 
+processing to occur at the network's edge, reducing 
+latency and bandwidth usage. 
+Focus:
+Enables real-time processing, analysis, and 
+decision-making closer to the data source, making it 
+suitable for applications like autonomous vehicles, 
+healthcare monitoring.
+Example:
+An autonomous vehicle can process sensor data 
+locally on the vehicle itself to make immediate 
+decisions about steering or braking, rather than 
+sending the data to a remote server for processing 
+and then sending back instructions. 
+Mobile Edge Computing
+MEC operates by extending cloud 
+computing capabilities closer to the 
+edge of the network, specifically 
+near mobile devices and 
+applications.
+This strategic placement 
+significantly reduces latency and 
+enhances network performance by 
+processing data nearer to where it 
+is generated and consumed.
+
+MEC architectures rely on several key components: 
+● Edge Servers: Provide computing resources, storage 
+capacity, and connectivity, similar to traditional cloud 
+infrastructure but located at the network edge.
+● Network Architecture: Designed to facilitate efficient data 
+flow and resource management across the distributed MEC 
+environment.
+● Software-Defined Networking (SDN) and Network 
+Functions Virtualization (NFV): Provide the flexibility and 
+scalability needed to manage the dynamic nature of edge 
+computing environments.
+● Radio Access Network (RAN) Integration: MEC leverages 
+RAN infrastructure to bring cloud computing capabilities 
+closer to the end-users
+Reduced Latency: This is a primary benefit, essential for applications 
+requiring real-time responses like autonomous vehicles, AR/VR, and 
+industrial automation.
+Improved Efficiency: Optimizes network bandwidth usage and reduces 
+the load on central data centers, leading to better performance and 
+more efficient resource utilization.
+Enhanced User Experience: Lower latency leads to a more responsive 
+and satisfying user experience for mobile applications and services.
+Support for 5G and IoT: MEC complements 5G networks, providing the 
+high throughput and low latency essential for a wide range of 5G and 
+IoT applications, such as connected devices, sensors, and intelligent 
+systems.
+Scalability and Flexibility: MEC offers a scalable and flexible 
+infrastructure that can adapt to changing demands and varying 
+workloads
+Improved Security and Privacy: By processing data closer to the 
+source, MEC enhances data security and privacy by reducing the attack 
+surface and minimizing the exposure of sensitive information during 
+transmission.
+MEC BENEFITS
+Challenges and considerations in MEC
+Despite its advantages, MEC also presents certain challenges:
+Security: Protecting data and devices in distributed edge 
+environments requires careful attention to security protocols, 
+authentication, and access control.
+Integration with Existing Network Architectures: Integrating 
+MEC with existing network infrastructure can be complex and 
+may require upgrades and modifications.
+Scalability and Flexibility: Scaling MEC deployments to 
+accommodate growing workloads and user demands can be 
+challenging due to the need for distributed resources and the 
+inherent complexity of edge environments.
+Interoperability: Ensuring compatibility and seamless 
+communication between different devices, applications, and 
+networks within the MEC ecosystem is important for successful 
+deployment.
+Deployment Complexity: Planning, deploying, managing 
+edge infrastructure, including physical device placement and 
+software configurations, can be complex.
+Edge and Edge Illustrative Use Cases
