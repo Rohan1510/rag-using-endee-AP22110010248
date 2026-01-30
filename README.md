@@ -81,20 +81,22 @@ docker compose up -d
 Install Dependencies
 pip install -r requirements.txt
 
+---
+
 Ingest Documents
 python ingest.py
-
+---
 Query the System
 python rag_query.py
-
+---
 Example Queries
 what is cloud computing
 how does cloud computing work
 what is infrastructure as a service
-
+---
 Out-of-Scope Example
 who is rohan
-
+---
 Design Decisions
 
 A semantic confidence floor prevents unrelated queries from returning answers
@@ -104,19 +106,20 @@ Keyword matching is applied only when semantic similarity is reasonable
 Answer structuring improves clarity without generating new information
 
 No LLM is used for generation to avoid hallucination
+---
 
-Limitations
+### Limitations
 
 Answers depend strictly on ingested document content
 
 Open-source Endee build does not expose full vector search APIs
-
-Author
+---
+### Author
 
 Rohan
 SRM University – AP
 B.Tech (CSE)
-
-License
+---
+## License
 
 This project is intended for academic and evaluation purposes.
