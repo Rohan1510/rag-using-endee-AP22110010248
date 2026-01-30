@@ -100,7 +100,7 @@ Try these inputs to test the system:
 
 If a question is not supported by the indexed documents, the system rejects it:
 
-> **Input:** `who is rohan`
+> **Input:** `who is Monkey D Luffy`
 > **Response:** *[System indicates information is not available]*
 
 ---
