@@ -1,8 +1,3 @@
-Here is the corrected, **single-file Markdown code**.
-
-I fixed the broken code blocks in the *Setup & Usage* section so each command is isolated and copy-paste ready. You can copy this entire block and paste it directly into your `README.md`.
-
-```markdown
 #  RAG using Endee Vector Database
 
 ##  Project Overview
