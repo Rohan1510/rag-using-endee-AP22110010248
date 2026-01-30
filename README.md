@@ -130,10 +130,3 @@ If a question is not supported by the indexed documents, the system rejects it:
 * B.Tech (Computer Science & Engineering)
 
 ---
-
-##  License
-
-This project is intended for academic and evaluation purposes.
-
-
-```
